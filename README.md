@@ -20,6 +20,8 @@ Stunning visualizations using Kepler.gl and Open Datasets
 
    * [Explotacions ramaderes Catalunya: Granges de Cargols](https://kepler.gl/#/demo?mapUrl=https://raw.githubusercontent.com/geostarters/kepler-datasets/master/explotacions-ramaderes-cargols.json)
 
+  * [Simulació desplaçaments comissaries i accidents trànsit](https://kepler.gl/#/demo?mapUrl=https://raw.githubusercontent.com/geostarters/kepler-datasets/master/keplergl-simulacio-accidents.json)  
+
 
  #### Datasets from:
 
